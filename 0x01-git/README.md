@@ -1,1 +1,1 @@
-Welcome to my ALX pre-course repo. I'm glad you visited my page.
+The README.md file for my alx-pre_course directory
